@@ -19,11 +19,12 @@
 <br />
 <br />
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/uhyunglee"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139205844497897"
+    width="600"
+    height="120"
+  />
+</a>
 </a>
 <br />
   
