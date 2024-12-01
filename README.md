@@ -1,5 +1,6 @@
 ## 이우형 / uhyunglee
-안녕하세요. 모두 즐거운 하루 보내세요.
+안녕하세요. 우형리 입니다. 좋은 코드가 좋은 제품을 만든다고 생각합니다.
+좋은 코드란 효율성은 물론이고 읽기 좋은 코드가 좋은 코드라고 생각합니다.
 <br />
 <br />
 <br />  
@@ -20,11 +21,10 @@
 <br />
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139205844497897"
+    src="https://render.gitanimals.org/lines/uhyunglee?pet-id=649141189779640001"
     width="600"
     height="120"
   />
-</a>
 </a>
 <br />
   
